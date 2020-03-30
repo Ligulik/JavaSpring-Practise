@@ -16,7 +16,7 @@ public class SpringJpaDynamicQueriesApplication {
         ConfigurableApplicationContext ctx = SpringApplication.run(SpringJpaDynamicQueriesApplication.class, args);
 
         List<Product> Products=new ArrayList<>();
-        Products.add(new Product("Telewizor","Samsung",1200.0));
+        Products.add(new Product("Telewizor","Samsung",1210.0));
         Products.add(new Product("Komputer","Acer",5000.0));
         Products.add(new Product("Telefon","Samsung",2000.0));
         Products.add(new Product("Monitor","Benq",1223.0));
