@@ -8,7 +8,7 @@ I am Maciek and this is my repository for my tasks from course javastart.pl abou
 
 ## What I learned:
 
-# basic of:
+  basic of:
 
 - Java
 - Spring, Spring Boot, JSTL, JPA, JACKSON, JAXB, JPQL,  
