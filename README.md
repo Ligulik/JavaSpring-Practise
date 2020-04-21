@@ -15,6 +15,7 @@ I am Maciek and this is my repository for my tasks from course javastart.pl abou
 - Hibernate
 - MySQL
 - project patterns: CRUD, DAO, MVC, REST, API
+- Thymeleaf
 
 ## Im am still learnign about:
 
