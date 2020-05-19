@@ -13,19 +13,20 @@ I am Maciek and this is my repository for my tasks from course javastart.pl abou
 - Java
 - Spring, Spring Boot, JSTL, JPA, JACKSON, JAXB, JPQL,
 - Spring-MVC, Spring-MVC-REST, Spring-DATA, Spring-DATA-REST
+- Spring Validation
 - Hibernate
 - MySQL
 - project patterns: CRUD, DAO, MVC, REST, API
 - Thymeleaf
 - Maven
 - Git
+- Web deployment on VPS with Jenkins
 
 ## Im am still learnign about:
 
-- spring secuirity and validation
+- spring secuirity
 - JavaScript
 - Angular and Angular JS
-- Web deployment
 
 
 ## What are my plans
