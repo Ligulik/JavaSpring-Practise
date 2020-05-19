@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Zaloguj sie</title>
+</head>
+<body>
+    <h1>Zaloguj się</h1>
+    <form action="processlogin" th:action="@{/processlogin}" method="post">
+        <input name="user" placeholder="Username"> <br> <br>
+        <input name="pass" placeholder="password"> <br> <br>
+        <input type="submit" value="Zaloguj się">
+    </form>
+</body>
+</html>

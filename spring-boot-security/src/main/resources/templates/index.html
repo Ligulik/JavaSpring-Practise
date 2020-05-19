@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Witaj w Spring security<br>
+
+<a href="secret">Przejdz do ukrytej strony</a>
+
+<h2>Wyloguj się</h2>
+
+<form action="logmeout" th:action="@{/logmeout}" method="post">
+    <input type="submit" value="Wyloguj się">
+</form>
+
+</body>
+</html>
