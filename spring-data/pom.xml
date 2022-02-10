@@ -13,7 +13,7 @@
         <maven.compiler.target>13</maven.compiler.target>
         <spring.version>5.0.6.RELEASE</spring.version>
         <spring-data.version>2.1.0.RELEASE</spring-data.version>
-        <hibernate.version>5.4.13.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <mysql.connector.version>5.1.39</mysql.connector.version>
         <dbcp.version>2.3.0</dbcp.version>
         <jaxb.version>2.3.0</jaxb.version>
